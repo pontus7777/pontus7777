@@ -1,6 +1,6 @@
 ### Pontus
 
-I just want to create some cool stuff, eventually..
+I just want to create some cool stuff 😎
 
 About Me
 - I am a beginner in software development.
